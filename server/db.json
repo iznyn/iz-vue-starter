@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "full_name": "Administrator",
+      "email": "admin@admin.com",
+      "password": "111111",
+      "token": "kfhjsahkdasj8383sjdhjs"
+    },
+    {
+      "name": "iznyn",
+      "email": "iznyn@yahoo.co.id",
+      "password": "111111",
+      "password_confirmation": "111111",
+      "first_name": "Mohammad",
+      "last_name": "Arif",
+      "id": 2
+    },
+    {
+      "name": "ariff",
+      "email": "ariff@gmail.com",
+      "password": "111111",
+      "password_confirmation": "111111",
+      "first_name": "Mohammad",
+      "last_name": "Arif",
+      "id": 3
+    },
+    {
+      "name": "arniia",
+      "email": "arniia@gmail.com",
+      "password": "111111",
+      "password_confirmation": "111111",
+      "first_name": "Arin",
+      "last_name": "Budi",
+      "id": 4
+    },
+    {
+      "name": "arnibudi",
+      "email": "arnibudi@gmail.com",
+      "password": "111111",
+      "password_confirmation": "111111",
+      "first_name": "Arni Budi",
+      "last_name": "Meisa",
+      "id": 5
+    },
+    {
+      "name": "iznyn",
+      "email": "iznyn@gmail.com",
+      "password": "111111",
+      "password_confirmation": "111111",
+      "first_name": "Mohammad",
+      "last_name": "Arif",
+      "id": 6
+    },
+    {
+      "name": "iznyn",
+      "email": "iznyn@yahoo.co.id",
+      "password": "111111",
+      "password_confirmation": "111111",
+      "first_name": "Mohammad",
+      "last_name": "Arif",
+      "id": 7
+    }
+  ],
+  "login": {
+    "id": 1,
+    "name": "admin",
+    "full_name": "Administrator",
+    "email": "admin@admin.com",
+    "password": "111111",
+    "token": "kfhjsahkdasj8383sjdhjs"
+  }
+}
